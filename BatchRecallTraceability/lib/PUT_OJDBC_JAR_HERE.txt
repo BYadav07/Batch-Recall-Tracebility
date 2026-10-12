@@ -1,0 +1,3 @@
+Copy the Oracle JDBC driver into this folder:
+  ojdbc8.jar  (for JDK 8)  or  ojdbc11.jar  (for JDK 11 and later)
+It is in <ORACLE_HOME>/jdbc/lib/ of your Oracle installation, or downloadable from oracle.com.
